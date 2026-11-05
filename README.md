@@ -33,4 +33,5 @@ Other factors like water depth, food availability (chlorophyll), and predators l
 *Heatmap: Whale observation hotspots by latitude and longitude.*
 
 [View the full analysis](https://github.com/vicTORIa-biotech/whale-migration-eda-part2/blob/main/SST-Data_WhaleMigration_Part2.ipynb)
+
 **Author:** Victoria
