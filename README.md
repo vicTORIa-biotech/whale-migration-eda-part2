@@ -22,10 +22,14 @@ The data (808 records for one year, surface temperature only) is insufficient to
 Other factors like water depth, food availability (chlorophyll), and predators likely play a much larger role.
 
 ## Visualizations
+
 <img width="844" height="547" alt="scatter plot" src="https://github.com/user-attachments/assets/23dca526-f99c-4405-891c-cef18cf4b152" />
+
 *Scatter plot: Number of whale sightings vs Sea Surface Temperature.*
 
+
 <img width="1000" height="573" alt="heatmap" src="https://github.com/user-attachments/assets/34528109-0d2e-4cfe-883d-a942860cd30b" />
+
 *Heatmap: Whale observation hotspots by latitude and longitude.*
 
 [View the full analysis](Whale_migration_analysis.ipynb)
