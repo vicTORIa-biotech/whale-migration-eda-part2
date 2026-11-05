@@ -1,6 +1,7 @@
 # Whale Migration & Ocean Temperature Analysis (Part 2)
 
-This is the second part of my marine data analysis project. After identifying the main "hotspots" of whale observations, I wanted to find out **why** they were there. 
+This is the second part of my marine data analysis project. 
+After identifying the main "hotspots" of whale observations, I wanted to find out **why** they were there. 
 
 ## Goal
 To test the hypothesis: *Does sea surface temperature influence whale movement in the Southern Ocean?*
@@ -15,7 +16,8 @@ To test the hypothesis: *Does sea surface temperature influence whale movement i
 2. **Migration Route:** The heatmap clearly shows a diagonal aggregation pattern, suggesting whales follow a specific migratory route near Antarctica rather than moving randomly.
 
 ## Conclusion
-The data (808 records for one year, surface temperature only) is insufficient to make a strong conclusion. Other factors like water depth, food availability (chlorophyll), and predators likely play a much larger role.
+The data (808 records for one year, surface temperature only) is insufficient to make a strong conclusion. 
+Other factors like water depth, food availability (chlorophyll), and predators likely play a much larger role.
 
 ## Visualizations
 <img width="844" height="547" alt="scatter plot" src="https://github.com/user-attachments/assets/23dca526-f99c-4405-891c-cef18cf4b152" />
