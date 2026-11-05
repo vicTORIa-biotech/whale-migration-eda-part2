@@ -1,6 +1,7 @@
 # Whale Migration & Ocean Temperature Analysis (Part 2)
 
 This is the second part of my marine data analysis project. 
+
 After identifying the main "hotspots" of whale observations, I wanted to find out **why** they were there. 
 
 ## Goal
@@ -17,6 +18,7 @@ To test the hypothesis: *Does sea surface temperature influence whale movement i
 
 ## Conclusion
 The data (808 records for one year, surface temperature only) is insufficient to make a strong conclusion. 
+
 Other factors like water depth, food availability (chlorophyll), and predators likely play a much larger role.
 
 ## Visualizations
