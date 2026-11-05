@@ -32,6 +32,5 @@ Other factors like water depth, food availability (chlorophyll), and predators l
 
 *Heatmap: Whale observation hotspots by latitude and longitude.*
 
-[View the full analysis](https://github.com/vicTORIa-biotech/whale-migration-analysis_marine-data/blob/main/Antarctic%20blue%20whales%2C%20east%20Antarctic%20sector%20of%20the%20Southern%20Ocean.csv)
-
+[View the full analysis](https://github.com/vicTORIa-biotech/whale-migration-eda-part2/blob/main/SST-Data_WhaleMigration_Part2.ipynb)
 **Author:** Victoria
