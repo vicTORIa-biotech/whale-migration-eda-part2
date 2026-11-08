@@ -23,7 +23,7 @@ Other factors like water depth, food availability (chlorophyll), and predators l
 
 ## Visualizations
 
-<img width="844" height="547" alt="scatter plot" src="https://github.com/user-attachments/assets/23dca526-f99c-4405-891c-cef18cf4b152" />
+<img width="844" height="547" alt="scatter plot" src="https://github.com/user-attachments/assets/23782ca7-08eb-4ffd-bdd5-d47044c65bb8" />
 
 *Scatter plot: Number of whale sightings vs Sea Surface Temperature.*
 
@@ -31,6 +31,10 @@ Other factors like water depth, food availability (chlorophyll), and predators l
 <img width="1000" height="573" alt="heatmap" src="https://github.com/user-attachments/assets/34528109-0d2e-4cfe-883d-a942860cd30b" />
 
 *Heatmap: Whale observation hotspots by latitude and longitude.*
+
+<img width="1000" height="573" alt="overlaid" src="https://github.com/user-attachments/assets/7034555f-84aa-4043-a453-bade920012ac" />
+
+*Overlaid Heatmap: Whale locations on top of observation density.*
 
 [View the full analysis](https://github.com/vicTORIa-biotech/whale-migration-eda-part2/blob/main/SST-Data_WhaleMigration_Part2.ipynb)
 
